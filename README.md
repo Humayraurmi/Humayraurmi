@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayraurmi" alt="humayraurmi" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/Humayraurmi](https://github.com/Humayraurmi)
+
+- 💬 Ask me about **Frontend Development, HTML5, CSS3, JavaScript (ES6+), React, Bootstrap/Tailwind, React.js, Node.js, MongoDB**
+
+- 📫 How to reach me **humayraurmi25@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
