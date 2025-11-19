@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/dzws2Nm/Gemini-Generated-Image-tva7lxtva7lxtva7-1.png" alt="banner" />
+  <img src="https://i.ibb.co/dzws2Nm/Gemini-Generated-Image-tva7lxtva7lxtva7-1.png" alt="banner" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Humayra Rahman Urmi</h1>
