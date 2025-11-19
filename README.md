@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/dzws2Nm/Gemini-Generated-Image-tva7lxtva7lxtva7-1.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/ChatGPT-Image-Hosting/humayra-assets/main/Gemini_Generated_Image_tva7lxtva7lxtva7.png" alt="banner" />
 </p>
+
 
 
 
