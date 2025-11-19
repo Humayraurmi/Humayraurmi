@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Humayra Rahman Urmi</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
-<hr />
-<a href="[https://fb.com/humayra rahman urmi](https://www.facebook.com/share/17PcUx4Gwc/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra rahman urmi" height="30" width="40" /></a>
-</p>
+
+<h3>Work</h3>
+<hr/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayraurmi](https://github.com/Humayraurmi)
 
@@ -27,6 +26,10 @@
 
 - 📚 Exploring advanced programming concepts including Python, MERN stack patterns
 
+<h3 align="left">Connect with me:</h3>
+<hr />
+<a href="[https://fb.com/humayra rahman urmi](https://www.facebook.com/share/17PcUx4Gwc/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra rahman urmi" height="30" width="40" /></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=humayraurmi&label=Profile%20views&color=0e75b6&style=flat" alt="humayraurmi" /> </p>
 
 <h3>🏆 GitHub Achievements</h3>
