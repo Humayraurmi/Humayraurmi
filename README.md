@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
-
+---
 - 👨‍💻 All of my projects are available at [https://github.com/Humayraurmi](https://github.com/Humayraurmi)
 
 - 💬 Ask me about **Frontend Development, HTML5, CSS3, JavaScript (ES6+), React, Bootstrap/Tailwind, React.js, Node.js, MongoDB**
@@ -73,4 +73,4 @@
 
 <h3>🔥 Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayraurmi&" alt="humayraurmi" /></p>
-------------------------
+
