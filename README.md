@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
 
-<h3>Work</h3>
+<h3>📚 Work</h3>
 <hr/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayraurmi](https://github.com/Humayraurmi)
