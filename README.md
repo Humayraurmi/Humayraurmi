@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChatGPT-Image-Hosting/humayra-assets/main/Gemini_Generated_Image_tva7lxtva7lxtva7.png" alt="banner" />
+  <img src="file:///C:/Users/humay/OneDrive/Pictures/Screenshots/Gemini_Generated_Image_tva7lxtva7lxtva7%20(1).png" alt="banner" />
 </p>
 
 
