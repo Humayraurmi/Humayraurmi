@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+  <img src="[YOUR_BANNER_IMAGE_URL"](https://i.ibb.co.com/dzws2Nm/Gemini-Generated-Image-tva7lxtva7lxtva7-1.png)" alt="banner" />
 </p>
 
 
