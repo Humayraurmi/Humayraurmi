@@ -37,8 +37,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100085444987050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra rahman urmi" height="30" width="40" /></a>
-  <br/>
+  <a href="https://fb.com/https://www.facebook.com/share/17pcux4gwc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/17pcux4gwc/" height="30" width="40" /></a>
 </p>
 
 <h3>🏆 GitHub Achievements</h3>
