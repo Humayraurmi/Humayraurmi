@@ -25,9 +25,11 @@
 
 - 📚 Exploring advanced programming concepts including Python, MERN stack patterns
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraurmi&label=Profile%20views&color=0e75b6&style=flat" alt="humayraurmi" /> </p>
+
 <h3>🏆 GitHub Achievements</h3>
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraurmi&label=Profile%20views&color=0e75b6&style=flat" alt="humayraurmi" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayraurmi" alt="humayraurmi" /></a> </p>
 
