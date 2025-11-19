@@ -14,9 +14,9 @@
 - 🖥️ Crafting dynamic, responsive web interfaces using HTML5, CSS3, and modern JavaScript
 
 - ⚛️ Building high-performance front-end apps with React.js, Vite, and modular component architecture
-- 
+
 - 🛠️ Developing full-stack solutions with Node.js, Express, MongoDB, Firebase
-- 
+
 - 🎨 Designing sleek and interactive UI/UX with Tailwind CSS, DaisyUI, and Figma-inspired layouts
 
 - 🚀 Deploying production-ready applications seamlessly on Vercel, Netlify, and Firebase Hosting
