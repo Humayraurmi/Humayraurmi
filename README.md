@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Frontend Development, HTML5, CSS3, JavaScript (ES6+), React, Bootstrap/Tailwind, React.js, Node.js, MongoDB**
 
-- 📫 How to reach me **humayraurmi25@gmail.com**
-
 <h3 align="left">🔥 What I'm Currently Up To</h3>
 <hr />
 
@@ -36,6 +34,7 @@
   <a href="https://www.facebook.com/share/17PcUx4Gwc/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra rahman urmi" height="30" width="40" />
   </a>
+  📫 How to reach me **humayraurmi25@gmail.com**
 </p>
 
 <h3>🏆 GitHub Achievements</h3>
