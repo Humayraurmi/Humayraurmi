@@ -1,7 +1,7 @@
 <p align="center">
   <img src="file:///C:/Users/humay/OneDrive/Pictures/Screenshots/Gemini_Generated_Image_tva7lxtva7lxtva7%20(1).png" alt="banner" />
 </p>
-
+<img width="832" height="1248" alt="Image" src="https://github.com/user-attachments/assets/e6fc9135-360b-4911-8781-4877563207a3" />
 
 <h1 align="center">Hi 👋, I'm Humayra Rahman Urmi</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
