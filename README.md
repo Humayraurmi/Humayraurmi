@@ -37,8 +37,14 @@
 <hr />
 
 <p align="center">
-  <a href="https://fb.com/https://www.facebook.com/share/17pcux4gwc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/17pcux4gwc/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/share/17pcux4gwc/" target="_blank">
+    <img align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+      alt="facebook" height="30" width="40" 
+    />
+  </a>
 </p>
+
 
 <h3>🏆 GitHub Achievements</h3>
 <hr/>
