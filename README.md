@@ -34,6 +34,7 @@
 </p>
 
 <h3 align="center">🛠️ Languages & Tools:</h3>
+<hr />
 
 <h4 align="center">Languages</h4>
 <p align="center"> 
@@ -71,7 +72,9 @@
 
   
 <h3>📁 GitHub Statistics</h3>
+<hr />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayraurmi&show_icons=true&locale=en" alt="humayraurmi" /></p>
 
 <h3>🔥 Streak Stats</h3>
+<hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayraurmi&" alt="humayraurmi" /></p>
