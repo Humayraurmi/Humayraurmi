@@ -71,4 +71,5 @@
 <h3>📁 GitHub Statistics</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayraurmi&show_icons=true&locale=en" alt="humayraurmi" /></p>
 
+<h3>🔥 Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayraurmi&" alt="humayraurmi" /></p>
