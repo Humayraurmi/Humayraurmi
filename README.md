@@ -31,9 +31,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://www.facebook.com/share/17PcUx4Gwc/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra rahman urmi" height="30" width="40" />
-  </a>
+  <a href="[https://fb.com/humayra rahman urmi](https://www.facebook.com/share/17PcUx4Gwc/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra rahman urmi" height="30" width="40" /></a>
   📫 How to reach me **humayraurmi25@gmail.com**
 </p>
 
