@@ -2,6 +2,7 @@
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
+<hr />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humayraurmi](https://github.com/Humayraurmi)
 
@@ -10,6 +11,7 @@
 - 📫 How to reach me **humayraurmi25@gmail.com**
 
 <h3 align="left">🔥 What I'm Currently Up To</h3>
+<hr />
 
 - 🖥️ Crafting dynamic, responsive web interfaces using HTML5, CSS3, and modern JavaScript
 
