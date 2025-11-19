@@ -9,6 +9,20 @@
 
 - 📫 How to reach me **humayraurmi25@gmail.com**
 
+<h3 align="left">🔥 What I'm Currently Up To</h3>
+
+- 🖥️ Crafting dynamic, responsive web interfaces using HTML5, CSS3, and modern JavaScript
+
+- ⚛️ Building high-performance front-end apps with React.js, Vite, and modular component architecture
+- 
+- 🛠️ Developing full-stack solutions with Node.js, Express, MongoDB, Firebase
+- 
+- 🎨 Designing sleek and interactive UI/UX with Tailwind CSS, DaisyUI, and Figma-inspired layouts
+
+- 🚀 Deploying production-ready applications seamlessly on Vercel, Netlify, and Firebase Hosting
+
+- 📚 Exploring advanced programming concepts including Python, MERN stack patterns
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraurmi&label=Profile%20views&color=0e75b6&style=flat" alt="humayraurmi" /> </p>
 
