@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Humayra Rahman Urmi</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraurmi&label=Profile%20views&color=0e75b6&style=flat" alt="humayraurmi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayraurmi" alt="humayraurmi" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Humayraurmi](https://github.com/Humayraurmi)
 
 - 💬 Ask me about **Frontend Development, HTML5, CSS3, JavaScript (ES6+), React, Bootstrap/Tailwind, React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **humayraurmi25@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraurmi&label=Profile%20views&color=0e75b6&style=flat" alt="humayraurmi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayraurmi" alt="humayraurmi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
